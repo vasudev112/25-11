@@ -1,4 +1,4 @@
-# find()
+find()
 a = "Wellcome to python program"
 print(a.find("python"))
 print(a.find("e"))
